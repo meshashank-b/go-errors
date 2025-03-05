@@ -54,4 +54,4 @@ Stack Trace:
 
 ## License
 
-This package is licensed under the MIT License.
+This package is licensed under the GPL-3.0 License.
